@@ -1,0 +1,7 @@
+muyangroshella40
+
+TuQgZctrsOZOmeWB
+
+mongodb+srv://muyangroshella40:TuQgZctrsOZOmeWB@reactbackendportfolio.f9f6h8s.mongodb.net/
+
+mongodb+srv://muyangroshella40:TuQgZctrsOZOmeWB@reactbackendportfolio.f9f6h8s.mongodb.net/?retryWrites=true&w=majority
